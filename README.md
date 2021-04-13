@@ -3,6 +3,8 @@
 In Terminal:
 sudo apt-get install python3
 gitclone https://github.com/Sn8ow/YouTubeBotter.git
+pip3 install requests
+pip3 install colorama
 cd YouTube-Botter
 python3 YouTubeBotter.py
 ```
