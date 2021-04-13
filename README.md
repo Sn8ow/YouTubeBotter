@@ -1,2 +1,9 @@
-# YouTubeBotter
-Simple tool to bot viewers to a YouTube Livestream! 
+# Downloading (Linux)
+```
+In Terminal:
+sudo apt-get install python3
+gitclone 
+cd YouTube-Botter
+python3 YouTubeBotter.py
+```
+
