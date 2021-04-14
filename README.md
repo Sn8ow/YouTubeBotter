@@ -12,9 +12,6 @@ python3 YouTubeBotter.py
 YouTube URLs look something like this => https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Then dQw4w9WgXcQ would be the ID of the video. 
 
-# Contributors
-<a href="https://github.com/Sn8ow/YouTubeBotter/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sn8ow/YouTubeBotter" />
-</a>
+
 
 
